@@ -11,9 +11,9 @@ The United States, with its rich history and cultural diversity, exhibits a plet
 
 __Data Preparation__
 
-..* Use the TIMIT dataset to extract audio samples and dialect labels. 
+- Use the TIMIT dataset to extract audio samples and dialect labels. 
 
-..*Preprocess audio by normalizing and extracting relevant features (MFCC, pitch, etc.).
+- Preprocess audio by normalizing and extracting relevant features (MFCC, pitch, etc.).
 
 _Dialect Embeddings_
 
